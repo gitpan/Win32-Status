@@ -9,4 +9,6 @@ t/10-Win32-Status.t
 t/manifest.t
 t/pod-coverage.t
 t/pod.t
-META.yml                                 Module meta-data (added by MakeMaker)
+SIGNATURE
+META.yml
+META.json
